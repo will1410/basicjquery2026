@@ -57,33 +57,33 @@ $('selector').hide();
 
 jQuery statements should start with dollar sign and end with a semicolon 
 
-~~~javascript
+
 $ ;
-~~~
+
 
 ---
 
 Selectors are inside of quotes inside of parentheses
 
-~~~javascript
+
 ('')
-~~~
+
 
 ---
 
 Events start with a . and are followed by something in parentheses
 
-~~~javascript
+
 .()
-~~~
+
 
 ---
 
 Put it all together and you get a basic skeleton for a piece of jQuery
 
-~~~javascript
+
 $('').();
-~~~
+
 
 ---
 
