@@ -94,7 +94,12 @@ A selector is the HTML element that tells jQuery which HTML element that jQuery 
 ### What is an HTML element?
 
 HTML elements are the parts of a web page that tell your browser how to display the page
-<p>, <table>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <input>, etc. are some examples of HTML tags and elements
+
+~~~html
+<p>, <table>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <input>,
+~~~ 
+
+etc. are some examples of HTML tags and elements
 
 Sometimes tags also contains classes or ids that help identify specific elements or classes of elements
 
