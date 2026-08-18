@@ -1,6 +1,5 @@
-theme: jekyll-theme-hacker
-title: Basic jQuery for Koha
-description: This website goes with the koha-US presentations "Very, very basic jQuery," "Very basic jQuery," and "Basic jQuery (coming soon)"
+title: Basic jQuery for Koha - 2026
+description: This is a refresh of Basic jQuery for Koha
 show_downloads: false
 permalink: /blog/:year/:month/:day/:title
 author:
@@ -38,7 +37,9 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : [jekyll-remote-theme]
+
+remote_theme: pages-themes/midnight@v0.2.0
 
 # Conversion
 markdown            : kramdown
